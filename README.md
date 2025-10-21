@@ -78,3 +78,7 @@ Node-RED NSSM Service ✅ HOÀN THÀNH
 CÀI 7 LIBRARIES NODE-RED
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/269c2db9-f2c0-44c4-b42d-ab08716d4cb7" />
+
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf1ba77-6c63-48a8-93ba-a4428b8d7855" />
+sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1880 dùng tên admin, mk nam123 đăng nhập
+
