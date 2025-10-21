@@ -40,3 +40,9 @@ Tạo thư mục + File test index.html (Tạo nơi chứa frontend, file test c
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad44c614-6114-4967-bb0e-e8f98fcfcd5e" />
 
 PORT 80 + DOMAIN OK
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fc73f68-1ed8-40e9-9ec0-8db6514f2867" />
+
+download Node.js
+<img width="843" height="623" alt="image" src="https://github.com/user-attachments/assets/a3a8aabb-b4f8-4582-a471-a5c420e47154" />
+Cài Python + Visual Studio Build Tools
+
