@@ -63,6 +63,8 @@ path nssm vào D:\nodejs\nodered>
 
  tạo file "D:\nodejs\nodered\run-nodered.cmd
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53ec07f9-07fa-4df4-ac41-01ab3ebce8f4" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93820078-fe0f-40da-942f-cc7efb45c28a" />
 
 Node-RED NSSM Service ✅ HOÀN THÀNH
