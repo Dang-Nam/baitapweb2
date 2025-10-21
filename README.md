@@ -44,5 +44,8 @@ PORT 80 + DOMAIN OK
 
 download Node.js
 <img width="843" height="623" alt="image" src="https://github.com/user-attachments/assets/a3a8aabb-b4f8-4582-a471-a5c420e47154" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbb18bc6-94e2-4fee-86cb-0033f22913a9" />
+
 Cài Python + Visual Studio Build Tools
 
