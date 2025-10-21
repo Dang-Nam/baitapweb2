@@ -31,3 +31,6 @@ HTTPD-VHOSTS.CONF
 
 
 Hosts file VÀ ping dangphuongnam.com
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b61d9497-c0fc-4cae-b855-95fd1c9f705c" />
+
