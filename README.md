@@ -25,3 +25,9 @@ CONFIG HTTPD.CONF
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5385796-6e31-4ae8-9c8f-a42bb7519daf" />
 
 HTTPD-VHOSTS.CONF
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/563874b3-3613-475f-bd1c-1510ec3bac64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cf60517-c5a1-40ca-86dc-6126b13cc9b1" />
+
+
+Hosts file VÀ ping dangphuongnam.com
