@@ -15,3 +15,9 @@ TẮT IIS
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/473e1f85-073a-4198-89fc-5f0231fd0496" />
 
 tải và giải nén apache
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9de3202a-79cc-4105-8f74-e00da2f0d767" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eb60971-ea01-4524-be3a-a1d7b9d5ffda" />
+
+CONFIG HTTPD.CONF
