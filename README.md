@@ -11,3 +11,7 @@
 
 TẮT IIS
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdc9211c-e71b-453c-a49c-50e0c5b76e39" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/473e1f85-073a-4198-89fc-5f0231fd0496" />
+
+tải và giải nén apache
