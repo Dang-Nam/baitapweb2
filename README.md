@@ -34,3 +34,9 @@ Hosts file VÀ ping dangphuongnam.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b61d9497-c0fc-4cae-b855-95fd1c9f705c" />
 Tạo thư mục + File test index.html (Tạo nơi chứa frontend, file test có style gradient tím-xanh)
+
+<img width="341" height="41" alt="image" src="https://github.com/user-attachments/assets/377d6cc2-b150-4d85-9132-8c98d48038b6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad44c614-6114-4967-bb0e-e8f98fcfcd5e" />
+
+PORT 80 + DOMAIN OK
