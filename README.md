@@ -50,6 +50,7 @@ download Node.js
 
 Cài Python + Visual Studio Build Tools
 
-![Uploading image.png…]()
-Tạo thư mục node 
+<img width="863" height="523" alt="image" src="https://github.com/user-attachments/assets/781dbea0-6d13-4544-9ff5-ec7dfe5dbf5d" />
+
+Node-RED
 
