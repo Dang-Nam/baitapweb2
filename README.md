@@ -21,3 +21,7 @@ tải và giải nén apache
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eb60971-ea01-4524-be3a-a1d7b9d5ffda" />
 
 CONFIG HTTPD.CONF
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5385796-6e31-4ae8-9c8f-a42bb7519daf" />
+
+HTTPD-VHOSTS.CONF
