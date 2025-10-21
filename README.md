@@ -57,3 +57,8 @@ Node-RED
 <img width="512" height="414" alt="image" src="https://github.com/user-attachments/assets/15b18dcc-4312-4810-bfe6-828ee0ee71c3" />
 
 path nssm vào D:\nodejs\nodered>
+
+ 
+<img width="869" height="393" alt="image" src="https://github.com/user-attachments/assets/3b50ce54-779f-4b00-a109-e711e1af8d34" />
+
+ tạo file "D:\nodejs\nodered\run-nodered.cmd
