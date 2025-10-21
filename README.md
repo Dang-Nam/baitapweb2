@@ -82,3 +82,11 @@ CÀI 7 LIBRARIES NODE-RED
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf1ba77-6c63-48a8-93ba-a4428b8d7855" />
 sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1880 dùng tên admin, mk nam123 đăng nhập
 
+# BƯỚC 2.5: TẠO API 4 NODES
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accdc42-4fb4-4c42-bc8c-d829e45fda7b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b625a3-dd62-46d6-a7b2-23d739faa3d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3440ba34-d2f8-42a4-8790-5b0796fb0871" />
+
+
+
