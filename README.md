@@ -54,3 +54,6 @@ Cài Python + Visual Studio Build Tools
 
 Node-RED
 
+<img width="512" height="414" alt="image" src="https://github.com/user-attachments/assets/15b18dcc-4312-4810-bfe6-828ee0ee71c3" />
+
+path nssm vào D:\nodejs\nodered>
