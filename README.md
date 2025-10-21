@@ -46,6 +46,7 @@ download Node.js
 <img width="843" height="623" alt="image" src="https://github.com/user-attachments/assets/a3a8aabb-b4f8-4582-a471-a5c420e47154" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbb18bc6-94e2-4fee-86cb-0033f22913a9" />
+<img width="475" height="97" alt="image" src="https://github.com/user-attachments/assets/ab544ad6-0d8c-4d4f-ba0a-95c6811461f1" />
 
 Cài Python + Visual Studio Build Tools
 
