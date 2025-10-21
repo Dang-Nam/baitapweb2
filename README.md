@@ -50,3 +50,6 @@ download Node.js
 
 Cài Python + Visual Studio Build Tools
 
+![Uploading image.png…]()
+Tạo thư mục node 
+
