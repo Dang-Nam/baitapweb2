@@ -74,4 +74,7 @@ Node-RED NSSM Service ✅ HOÀN THÀNH
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cffbdae-3b47-4403-85d6-2b2656725cd0" />
  tạo csdl, bảng sanpham gồm các cột id, tensp, gia tien, mota, danhsach
- 
+
+CÀI 7 LIBRARIES NODE-RED
+
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/269c2db9-f2c0-44c4-b42d-ab08716d4cb7" />
