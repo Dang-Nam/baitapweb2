@@ -69,6 +69,9 @@ path nssm vào D:\nodejs\nodered>
 
 Node-RED NSSM Service ✅ HOÀN THÀNH
 
+
+# ý tưởng csdl điện thoại
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cffbdae-3b47-4403-85d6-2b2656725cd0" />
  tạo csdl, bảng sanpham gồm các cột id, tensp, gia tien, mota, danhsach
  
