@@ -88,5 +88,9 @@ sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b625a3-dd62-46d6-a7b2-23d739faa3d2" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3440ba34-d2f8-42a4-8790-5b0796fb0871" />
 
+<img width="1189" height="247" alt="image" src="https://github.com/user-attachments/assets/07055e35-5ea4-46bd-9a09-b61ff4febce4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebef424c-c8c5-47e8-931b-ac278ddf7b20" />
+
+
 
 
