@@ -92,5 +92,8 @@ sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebef424c-c8c5-47e8-931b-ac278ddf7b20" />
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f3c416b-f8f1-4568-b354-770d9ffe5f08" />
+test api, tìm kiếm các sản phẩm có tên pro.
+
 
 
