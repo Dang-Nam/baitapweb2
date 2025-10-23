@@ -113,6 +113,24 @@ http responne node, Status Code=200
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f3c416b-f8f1-4568-b354-770d9ffe5f08" />
 test api, tìm kiếm các sản phẩm có tên pro.
+### BƯỚC 6: Tạo giao diện front-end
 
+- html form gồm các file : index.html, fullname.js, fullname.css
 
+<img width="850" height="243" alt="image" src="https://github.com/user-attachments/assets/43474525-b49c-49ce-969a-1ae70e642c02" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce1f818e-984c-4fa7-92db-90df64e55ca1" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3601f26e-7792-40a3-8924-86d132c98138" />
+
+ Lấy dữ liệu trên form, gửi đến api nodered đã làm ở bước 2.5, nhận về json, dùng json trả về để tạo giao diện phù hợp với kết quả truy vấn 
+
+###Bước 7 nhận xét
+
+1. Cài đặt: dựa vào hướng dẫn thầy đã gửi và Ai em đã hiểu rõ cách cài SSMS, Node-RED, MSSQL. Có gặp lỗi port, sa password nhưng đã sử dụng AI để tìm hiểu fix được qua debug.
+   
+2. Node-RED API: em đã làm được flow hoàn chỉnh: http in → function → mssql → response. Query '%${msg.query}%' chạy đúng, test  URL OK 100%. làm bước này nhớ đến phần MIT app đã học ở môn lập trình thiết bị di động >
+   
+3. Frontend-Backend:  hiểu cách /timkiem?q=pro gửi request → function lấy q → MSSQL trả JSON. hoàn thành bước làm HTML form.
+
+### EM XIN CẢM ƠN THẦY ĐÃ HƯỚNG DẪN RẤT CHI TIẾT ĐỂ EM HOÀN THÀNH ĐƯỢC BÀI TẬP, CẢM ƠN THẦY VÀ CÁC BẠN ĐÃ XEM BÀI LÀM CỦA EM.
