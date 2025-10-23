@@ -85,7 +85,7 @@ Node-RED NSSM Service ✅ HOÀN THÀNH
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf1ba77-6c63-48a8-93ba-a4428b8d7855" />
 sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1880 dùng tên admin, mk nam123 đăng nhập
 
-# BƯỚC 5: TẠO API 4 NODES
+### BƯỚC 5: TẠO API 4 NODES
 kéo 1 http in, 1 function node, 1 mssql-plus, 1 debug, 1 http responne node nối theo thứ tự trên và cấu hình cho các phần.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accdc42-4fb4-4c42-bc8c-d829e45fda7b" />
 
@@ -124,7 +124,7 @@ test api, tìm kiếm các sản phẩm có tên pro.
 
  Lấy dữ liệu trên form, gửi đến api nodered đã làm ở bước 2.5, nhận về json, dùng json trả về để tạo giao diện phù hợp với kết quả truy vấn 
 
-###Bước 7 nhận xét
+### Bước 7 nhận xét
 
 1. Cài đặt: dựa vào hướng dẫn thầy đã gửi và Ai em đã hiểu rõ cách cài SSMS, Node-RED, MSSQL. Có gặp lỗi port, sa password nhưng đã sử dụng AI để tìm hiểu fix được qua debug.
    
