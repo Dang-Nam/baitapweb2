@@ -87,7 +87,7 @@ Node-RED NSSM Service ✅ HOÀN THÀNH
 sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1880 dùng tên admin, mk nam123 đăng nhập
 
 # BƯỚC 5: TẠO API 4 NODES
-
+kéo 1 http in, 1 function node, 1 mssql-plus, 1 debug, 1 http responne node nối theo thứ tự trên và cấu hình cho các phần.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accdc42-4fb4-4c42-bc8c-d829e45fda7b" />
 <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/16cc7c8d-a5e2-41c9-9b11-f7022adb1f51" />
 
@@ -95,7 +95,14 @@ sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1
 
 <img width="802" height="858" alt="image" src="https://github.com/user-attachments/assets/4e3f1263-37cd-4bde-868b-140e2cc28492" />
 
-<img width="1189" height="247" alt="image" src="https://github.com/user-attachments/assets/07055e35-5ea4-46bd-9a09-b61ff4febce4" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22160bc2-45e9-4262-bcc4-1771afd62af6" />
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d506c9ad-ac6c-4d85-80ca-7443164ed6fc" />
+
+đã nối và cấu hình 
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebef424c-c8c5-47e8-931b-ac278ddf7b20" />
 
 
