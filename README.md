@@ -89,15 +89,20 @@ sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1
 # BƯỚC 5: TẠO API 4 NODES
 kéo 1 http in, 1 function node, 1 mssql-plus, 1 debug, 1 http responne node nối theo thứ tự trên và cấu hình cho các phần.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accdc42-4fb4-4c42-bc8c-d829e45fda7b" />
+
+http in, đặt URL /timkiem
 <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/16cc7c8d-a5e2-41c9-9b11-f7022adb1f51" />
+
+function node
 
 <img width="665" height="875" alt="image" src="https://github.com/user-attachments/assets/9c3f1ff9-85f2-42c0-b1df-7860b4c2c6c2" />
 
+
 <img width="802" height="858" alt="image" src="https://github.com/user-attachments/assets/4e3f1263-37cd-4bde-868b-140e2cc28492" />
+mssql-plus
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/22160bc2-45e9-4262-bcc4-1771afd62af6" />
-
+<img width="687" height="436" alt="image" src="https://github.com/user-attachments/assets/061ea647-1d9e-48ab-a2e2-448c997e0e4e" />
+http responne node, Status Code=200
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d506c9ad-ac6c-4d85-80ca-7443164ed6fc" />
 
