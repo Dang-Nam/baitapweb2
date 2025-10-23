@@ -73,19 +73,20 @@ path nssm vào D:\nodejs\nodered>
 Node-RED NSSM Service ✅ HOÀN THÀNH
 
 
-# ý tưởng csdl điện thoại
+### Bước 3: Tạo csdl
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cffbdae-3b47-4403-85d6-2b2656725cd0" />
- tạo csdl, bảng sanpham gồm các cột id, tensp, gia tien, mota, danhsach
 
-CÀI 7 LIBRARIES NODE-RED
+ tạo csdl về điện thoại để dùng vào bài tìm kiếm điện thoại đơn giản, bảng sanpham gồm các cột id, tensp, gia tien, mota, danhsach
+
+### Bước 4 CÀI 7 LIBRARIES NODE-RED
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/269c2db9-f2c0-44c4-b42d-ab08716d4cb7" />
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf1ba77-6c63-48a8-93ba-a4428b8d7855" />
 sau khi làm các bước theo hướng dẫn của thầy => http://localhost:1880 dùng tên admin, mk nam123 đăng nhập
 
-# BƯỚC 2.5: TẠO API 4 NODES
+# BƯỚC 5: TẠO API 4 NODES
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1accdc42-4fb4-4c42-bc8c-d829e45fda7b" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e4b625a3-dd62-46d6-a7b2-23d739faa3d2" />
