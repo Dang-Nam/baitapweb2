@@ -20,17 +20,17 @@ tải và giải nén apache
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5eb60971-ea01-4524-be3a-a1d7b9d5ffda" />
 
-CONFIG HTTPD.CONF
+cấu hình file CONFIG HTTPD.CONF
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5385796-6e31-4ae8-9c8f-a42bb7519daf" />
 
-HTTPD-VHOSTS.CONF
+cấu hình file HTTPD-VHOSTS.CONF
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/563874b3-3613-475f-bd1c-1510ec3bac64" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cf60517-c5a1-40ca-86dc-6126b13cc9b1" />
 
 
-Hosts file VÀ ping dangphuongnam.com
+Hosts file và  ping dangphuongnam.com
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b61d9497-c0fc-4cae-b855-95fd1c9f705c" />
 Tạo thư mục + File test index.html (Tạo nơi chứa frontend, file test có style gradient tím-xanh)
@@ -40,6 +40,9 @@ Tạo thư mục + File test index.html (Tạo nơi chứa frontend, file test c
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ad44c614-6114-4967-bb0e-e8f98fcfcd5e" />
 
 PORT 80 + DOMAIN OK
+
+### Bước 2: Cài đặt nodejs và nodered
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fc73f68-1ed8-40e9-9ec0-8db6514f2867" />
 
 download Node.js
