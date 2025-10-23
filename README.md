@@ -112,6 +112,7 @@ http responne node, Status Code=200
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f3c416b-f8f1-4568-b354-770d9ffe5f08" />
 test api, tìm kiếm các sản phẩm có tên pro.
+
 ### BƯỚC 6: Tạo giao diện front-end
 
 - html form gồm các file : index.html, fullname.js, fullname.css
